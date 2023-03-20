@@ -1,18 +1,18 @@
 import React from 'react'
 import Card from '@mui/material/Card';
 import CardMedia from '@mui/material/CardMedia';
-const Card = () => {
+
+const Items = (image) => {
   return (
-    
-         <Card sx={{ maxWidth: 345 }}>
+    <div>
+      <Card sx={{ maxWidth: 345 }}/>
       <CardMedia
         sx={{ height: 140 }}
-        image="/static/images/cards/contemplative-reptile.jpg"
+        image={image.image}
         title="green iguana"
       />
-       </Card>
-  
+    </div>
   )
-}
+  }
 
-export default Card
+export default Items
