@@ -1,0 +1,12 @@
+.carimg{
+    display:flex;
+    justify-content: space-between;
+}
+.car h2{
+    margin-top:3rem;
+    text-align: left;
+}
+.carimg1{
+    display:flex;
+    justify-content: space-between;
+}

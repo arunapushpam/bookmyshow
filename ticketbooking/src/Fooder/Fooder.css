@@ -1,0 +1,15 @@
+.footer{
+    background-color: black;
+}
+.foot{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2rem;
+    padding-bottom:1rem;
+}
+.foothr{
+    width:30%;
+}
+.footimg{
+    
+}
