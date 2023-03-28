@@ -1,25 +1,80 @@
 [
     {
         "id":1,
-        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC4xLzEwICAxOC4zSyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00335415-jvkfdwbkqe-portrait.jpg"
-    },
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC4xLzEwICAxOC4zSyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00335415-jvkfdwbkqe-portrait.jpg",
+        "MovieName":"Vaathi",
+        "Discription":"Acction/Drama",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/vaathi-et00335415-1663587908.jpg"
+        
+        },
     {
         "id":2,
-        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4zLzEwICA1LjNLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00350136-vglxaabfag-portrait.jpg"
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4zLzEwICA1LjNLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00350136-vglxaabfag-portrait.jpg",
+        "MovieName":"Ayothi",
+        "Discription":"Drama",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/ayodhi-et00350136-1673932656.jpg"
+
     },
     {
         "id":3,
-        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4zLzEwICAxNy42SyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00349087-jlwphflscy-portrait.jpg"
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS4zLzEwICAxNy42SyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00349087-jlwphflscy-portrait.jpg",
+        "MovieName":"Dada",
+        "Discription":"Drama/Family",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/dada-et00349087-1675324293.jpg"
     }
     ,
     {
         "id":4,
-        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-NC42LzEwICAyNzUgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00311486-pgghghgrxs-portrait.jpg"
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-NC42LzEwICAyNzUgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00311486-pgghghgrxs-portrait.jpg",
+        "MovieName":"Ghosty",
+        "Discription":"Acction/Drama",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/ghosty-et00311486-1678950431.jpg"
     },
     {
         "id":5,
-        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OC4zLzEwICA3LjZLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00312239-nsutuudumm-portrait.jpg"
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-NDEuNEsgbGlrZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00310832-gxdbpzefne-portrait.jpg",
+        "MovieName":"Viduthalai",
+        "Discription":"Acction/Crime/Drama",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/viduthalai-part--1-et00310832-1679481437.jpg"
+    },
+    {
+        "id":6,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny42LzEwICAzMTggdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00335285-tnrykbsgax-portrait.jpg",
+        "MovieName":"Kasethan kadavulada",
+        "Discription":"Comady/Drama",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kasethan-kadavulada-2022-et00335285-1658746170.jpg" 
+       },
+    {
+        "id":7,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-Ny44LzEwICAyLjFLIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00354916-adhpkbffhk-portrait.jpg",
+        "MovieName":"Kannai nambaathe",
+        "Discription":"Crime/Drama/Thriller",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kannai-nambaathe-et00354916-1678796807.jpg"
+    },
+
+    {
+        "id":8,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@like_202006280402.png,ox-24,oy-617,ow-29:ote-MjkuNEsgbGlrZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00333005-newemcwuxj-portrait.jpg",
+        "MovieName":"Pathu Thala",
+        "Discription":"Acction/Crime/Drama",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/kannai-nambaathe-et00354916-1678796807.jpg"
     }
+    ,
+    {
+        "id":9,
+        "image":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/bholaa-et00326977-1679319423.jpg",
+        "MovieName":"Bholaa",
+        "Discription":"Acction/Drama/Fantasty",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/bholaa-et00326977-1679319423.jpg"
+    },
+    {
+        "id":10,
+        "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@star-icon-202203010609.png,ox-24,oy-615,ow-29:ote-OS41LzEwICAxNy44SyB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70:q-80/et00311714-qcryasajfx-portrait.jpg",
+        "MovieName":"Shazam",
+        "Discription":"Acction/Adventure/Fantasy",
+        "backgroundimage":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/shazam-fury-of-the-gods-et00312239-1678088844.jpg"
+    }
+ 
     
     
 

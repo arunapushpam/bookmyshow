@@ -1,12 +1,14 @@
 .carimg{
     display:flex;
+   flex-wrap: wrap;
+    flex-direction: row;
     justify-content: space-between;
+    
+    margin: auto;
+    cursor: pointer;
 }
-.car h2{
+.cards h2{
     margin-top:3rem;
     text-align: left;
 }
-.carimg1{
-    display:flex;
-    justify-content: space-between;
-}
+

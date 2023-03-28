@@ -51,7 +51,7 @@
     
 
 }
-.movie{
+.navbar{
     display: flex;
     width:40%;
     justify-content: space-between;
@@ -59,7 +59,7 @@
     padding-bottom: 1rem;
 
 }
-.movie a {
+.navbar a {
     text-decoration: none;
     color:white;
     font-size: .7rem;

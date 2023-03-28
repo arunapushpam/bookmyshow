@@ -11,7 +11,7 @@ const Fooder = () => {
                   <hr></hr>
               </div>
               <div className='footimg'>
-                <img src={bookmyshowlogo} alt="icon" />
+                <img src={bookmyshowlogo} alt="loge" />
               </div>
               <div className='foothr'>
                   <hr></hr>

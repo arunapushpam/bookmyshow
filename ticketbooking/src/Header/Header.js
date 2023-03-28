@@ -28,7 +28,7 @@ const Header = () => {
         </div>
         <div className='nav'>
             <div className='container'>
-                <div className='movie'>
+                <div className='navbar'>
                     <a href='#'>Movies</a>
                     <a href='#'>Events</a>
                     <a href='#'>Plays</a>

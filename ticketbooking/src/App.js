@@ -1,17 +1,18 @@
 
+// import { Router } from 'react-router-dom';
+import Router from "../src/Router";
 import './App.css';
-import Header from './Header/Header';
-import Home from './Home/Home';
+
 
 
 function App() {
   return (
     <div className="App">
-        <Header/>
-        <Home/>
+       
+        <Router />
         
     </div>
-  );
+  )
 }
 
 export default App;
