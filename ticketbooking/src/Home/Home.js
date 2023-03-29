@@ -16,7 +16,9 @@ const Home = () => {
         <div className='carimg'>
             {
               Image?.map((image,index)=>(
-                <Items image={image} key={index}/>
+                <div className='content'>
+                <Items image={image} key={index} className="content"/>
+                </div>
               ))
             }
         </div>

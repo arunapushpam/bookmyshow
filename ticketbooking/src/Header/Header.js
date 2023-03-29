@@ -38,8 +38,10 @@ const Header = () => {
                 </div>
             </div>
         </div>
-        <div className='unlock'>
-            <img src='https://assets-in.bmscdn.com/promotions/cms/creatives/1677493393240_web.jpg'></img>
+        <div className='container'>
+             <div className='unlock'>
+                 <img src='https://assets-in.bmscdn.com/promotions/cms/creatives/1677493393240_web.jpg'></img>
+             </div>
         </div>
         </>
     </div>
