@@ -3,7 +3,7 @@
     display: flex;
     justify-content:space-between;
     width: 20%;
-    margin-top:2rem;
+    margin-top:1rem;
 
 }
 .date1{
@@ -20,8 +20,40 @@
     border: 1px solid black;
     padding: 1.2rem;
 }
-    .bag{
-        
-        height: 20vh;
-        background-color: black;
-    }
+.tamil {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: black;
+ }
+.tamil1 h1{
+    color:white;
+     margin-left: 1rem;
+}
+.bag{
+    background-color: darkgray;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-top: 1rem;
+    
+}
+.book{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-between;
+}
+.t1{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.t2{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+.time{
+    width:100%;
+    border: 1px solid black;
+ 
+}

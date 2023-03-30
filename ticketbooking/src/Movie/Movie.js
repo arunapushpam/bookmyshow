@@ -11,7 +11,7 @@ const Movie = () => {
     console.log(getData);
     const navigate=useNavigate()
     const ticket=()=>{
-      navigate('/bookticket')
+      navigate(`/bookticket/${getData.MovieName}`)
     }
   return (
     <div>
