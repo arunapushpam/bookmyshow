@@ -30,30 +30,35 @@
      margin-left: 1rem;
 }
 .bag{
-    background-color: darkgray;
+    margin-top: 2rem;
+    background-color: darkgrey;
     padding-top: 2rem;
     padding-bottom: 2rem;
-    margin-top: 1rem;
-    
-}
-.book{
-    display: flex;
-    border: 1px solid black;
-    justify-content: space-between;
-}
-.t1{
-    display: flex;
-    justify-content: space-between;
-    
-}
+    height: vh;
 
-.t2{
+}
+.the{
+    background-color: white;
+    padding : 2rem;
+    margin: auto;
+    padding-bottom: 3rem;
+}
+.theatormain{
     display: flex;
     justify-content: space-between;
-    width: 50%;
+    /* background-color: white; */
+    margin-top: 1rem ;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid black;
+}
+.timemain{
+    display: flex;
+    justify-content: space-between;
+    width:35%;
+    /* padding:2rem; */
 }
 .time{
-    width:100%;
-    border: 1px solid black;
- 
+   
+    padding: .5rem;
+    border:1px solid black;
 }

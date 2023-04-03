@@ -14,6 +14,7 @@ const date4=date3.getDate()
 
 const date5=new Date()
 const date6 = date5.getDate() 
+
 return (
 <div>
      <div className='tamil'>
@@ -41,28 +42,61 @@ return (
             </div>
         </div>
     </div>
-     <div className='bag'>
-        <div className='container'>
-            <div className='t1'>
-                {/*     <div className='book'> */}
-                    <div className='aarthi'>
-                        <h2>aarthi</h2>
+    <div className='bag'>
+            <div className='container'>
+                <div className='the'>
+                    <div className='theatormain'>
+                        <div className='theatorname'>
+                            <h2>Jothi Theatre:chennai</h2>
+                        </div>
+                        <div className='timemain'>
+                            <div className='time'>
+                            <h3>10:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>2:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>6:45 AM</h3> 
+                            </div>
+                        </div>
                     </div>
-                {/* </div> */}
-                    <div className='t2'>
-                        <div className='time'>
+                    <div className='theatormain'>
+                        <div className='theatorname'>
+                            <h2>Kasi Talkies:chennai</h2>
                         </div>
-                        <div className='time'>
+                        <div className='timemain'>
+                            <div className='time'>
+                            <h3>10:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>2:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>6:45 AM</h3> 
+                            </div>
                         </div>
-                        <div className='time'>
+                    </div>
+                    <div className='theatormain'>
+                        <div className='theatorname'>
+                            <h2>Albert Theatres:chennai</h2>
                         </div>
-                        <div className='time'>
+                        <div className='timemain'>
+                            <div className='time'>
+                            <h3>10:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>2:45 AM</h3> 
+                            </div>
+                            <div className='time'>
+                            <h3>6:45 AM</h3> 
+                            </div>
                         </div>
-                    </div>   
-                
+                    </div>
+                </div>
+
             </div>
         </div>
-    </div> 
 </div>
 )
 }
